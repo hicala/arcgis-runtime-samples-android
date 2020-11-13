@@ -1,0 +1,31 @@
+{
+    "category": "Maps and Scenes",
+    "description": "Vertically exaggerate terrain in a scene.",
+    "formal_name": "TerrainExaggeration",
+    "ignore": false,
+    "images": [
+        "terrain-exaggeration.png"
+    ],
+    "keywords": [
+        "3D",
+        "DEM",
+        "DTM",
+        "elevation",
+        "scene",
+        "surface",
+        "terrain"
+    ],
+    "language": "java",
+    "redirect_from": [
+        "/android/latest/sample-code/terrain-exaggeration.htm"
+    ],
+    "relevant_apis": [
+        "Scene",
+        "Surface",
+        "Surface.setElevationExaggeration"
+    ],
+    "snippets": [
+        "src/main/java/com/esri/arcgisruntime/sample/terrainexaggeration/MainActivity.java"
+    ],
+    "title": "Terrain exaggeration"
+}

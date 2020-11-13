@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RGB renderer</string>
+    <string name="edit_renderer">Edit renderer</string>
+    <string name="rgb_rendering_parameters">RGB rendering parameters</string>
+    <string name="min_red_value">Min red value</string>
+    <string name="max_red_value">Max red value</string>
+    <string name="min_green_value">Min green value</string>
+    <string name="max_green_value">Max green value</string>
+    <string name="min_blue_value">Min blue value</string>
+    <string name="max_blue_value">Max blue value</string>
+    <string name="max_value">Max value</string>
+    <string name="min_value">Min value</string>
+    <string name="stretch_type">Stretch type</string>
+    <string name="standard_deviation">Std Dev</string>
+    <string name="rgb_renderer_shasta_tif">/raster-file/Shasta.tif</string>
+</resources>

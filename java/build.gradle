@@ -1,0 +1,47 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+apply from: '../version.gradle'
+
+buildscript {
+    apply from: '../version.gradle'
+    repositories {
+        google()
+        jcenter()
+    }
+    dependencies {
+        classpath "com.android.tools.build:gradle:$gradleVersion"
+    }
+}
+
+allprojects {
+
+    final def var = repositories {
+        google()
+        jcenter()
+        maven { url 'https://esri.jfrog.io/artifactory/arcgis' }
+    }
+    var
+}
+
+subprojects {
+    afterEvaluate { project ->
+        if (project.hasProperty("dependencies")) {
+            dependencies {
+                implementation "androidx.appcompat:appcompat:$appcompatVersion"
+                implementation "com.google.android.material:material:$materialVersion"
+                implementation "com.esri.arcgisruntime:arcgis-android:$arcgisVersion"
+                implementation "androidx.multidex:multidex:$multidexVersion"
+            }
+        }
+        project.android {
+            compileOptions {
+                sourceCompatibility rootProject.ext.javaVersion
+                targetCompatibility rootProject.ext.javaVersion
+            }
+            defaultConfig {
+                multiDexEnabled true
+            }
+        }
+    }
+}
+
+

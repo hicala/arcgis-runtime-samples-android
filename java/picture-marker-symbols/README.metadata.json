@@ -1,0 +1,27 @@
+{
+    "category": "Visualization",
+    "description": "Use pictures for markers.",
+    "formal_name": "PictureMarkerSymbols",
+    "ignore": false,
+    "images": [
+        "picture-marker-symbols.png"
+    ],
+    "keywords": [
+        "graphics",
+        "marker",
+        "picture",
+        "symbol",
+        "visualization"
+    ],
+    "language": "java",
+    "redirect_from": [
+        "/android/latest/sample-code/picture-marker-symbols.htm"
+    ],
+    "relevant_apis": [
+        "PictureMarkerSymbol"
+    ],
+    "snippets": [
+        "src/main/java/com/esri/arcgisruntime/sample/picturemarkersymbols/MainActivity.java"
+    ],
+    "title": "Picture marker symbols"
+}

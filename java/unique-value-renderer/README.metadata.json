@@ -1,0 +1,32 @@
+{
+    "category": "Visualization",
+    "description": "Render features in a layer using a distinct symbol for each unique attribute value.",
+    "formal_name": "UniqueValueRenderer",
+    "ignore": false,
+    "images": [
+        "unique-value-renderer.png"
+    ],
+    "keywords": [
+        "draw",
+        "renderer",
+        "symbol",
+        "symbology",
+        "values"
+    ],
+    "language": "java",
+    "redirect_from": [
+        "/android/latest/sample-code/unique-value-renderer.htm"
+    ],
+    "relevant_apis": [
+        "FeatureLayer",
+        "ServiceFeatureTable",
+        "SimpleFillSymbol",
+        "SimpleLineSymbol",
+        "UniqueValue",
+        "UniqueValueRenderer"
+    ],
+    "snippets": [
+        "src/main/java/com/esri/arcgisruntime/sample/uniquevaluerenderer/MainActivity.java"
+    ],
+    "title": "Unique value renderer"
+}

@@ -1,0 +1,32 @@
+{
+    "category": "Search and Query",
+    "description": "Identify features in a scene to select.",
+    "formal_name": "SceneLayerSelection",
+    "ignore": false,
+    "images": [
+        "scene-layer-selection.png"
+    ],
+    "keywords": [
+        "3D",
+        "Berlin",
+        "buildings",
+        "identify",
+        "model",
+        "query",
+        "search",
+        "select"
+    ],
+    "language": "java",
+    "redirect_from": [
+        "/android/latest/sample-code/scene-layer-selection.htm"
+    ],
+    "relevant_apis": [
+        "ArcGISSceneLayer",
+        "Scene",
+        "SceneView"
+    ],
+    "snippets": [
+        "src/main/java/com/esri/arcgisruntime/scenelayerselection/MainActivity.java"
+    ],
+    "title": "Scene layer selection"
+}

@@ -1,0 +1,35 @@
+{
+    "category": "Edit and Manage Data",
+    "description": "Apply scheduled updates to a downloaded preplanned map area.",
+    "formal_name": "ApplyScheduledUpdatesToPreplannedMapArea",
+    "ignore": false,
+    "images": [
+        "apply-scheduled-updates-to-preplanned-map-area.png"
+    ],
+    "keywords": [
+        "offline",
+        "pre-planned",
+        "preplanned",
+        "synchronize",
+        "update"
+    ],
+    "language": "java",
+    "provision_from": [
+        "https://arcgisruntime.maps.arcgis.com/home/item.html?id=740b663bff5e4198b9b6674af93f638a"
+    ],
+    "provision_to": [
+        "/canyonlands/"
+    ],
+    "relevant_apis": [
+        "MobileMapPackage",
+        "OfflineMapSyncJob",
+        "OfflineMapSyncParameters",
+        "OfflineMapSyncResult",
+        "OfflineMapSyncTask",
+        "OfflineMapUpdatesInfo"
+    ],
+    "snippets": [
+        "src/main/java/com/esri/arcgisruntime/sample/applyscheduledupdatestopreplannedmaparea/MainActivity.java"
+    ],
+    "title": "Apply scheduled updates to preplanned map area"
+}

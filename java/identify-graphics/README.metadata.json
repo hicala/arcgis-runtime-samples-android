@@ -1,0 +1,26 @@
+{
+    "category": "Search and Query",
+    "description": "Display an alert message when a graphic is tapped.",
+    "formal_name": "IdentifyGraphics",
+    "ignore": false,
+    "images": [
+        "identify-graphics.png"
+    ],
+    "keywords": [
+        "graphics",
+        "identify"
+    ],
+    "language": "java",
+    "redirect_from": [
+        "/android/latest/sample-code/identify-graphics.htm"
+    ],
+    "relevant_apis": [
+        "Graphic",
+        "GraphicsOverlay",
+        "MapView"
+    ],
+    "snippets": [
+        "src/main/java/com/esri/arcgisruntime/sample/identifygraphics/MainActivity.java"
+    ],
+    "title": "Identify graphics"
+}

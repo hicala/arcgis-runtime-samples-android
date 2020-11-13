@@ -1,0 +1,33 @@
+{
+    "category": "Edit and Manage Data",
+    "description": "Format coordinates in a variety of common notations.",
+    "formal_name": "FormatCoordinates",
+    "ignore": false,
+    "images": [
+        "format-coordinates.png"
+    ],
+    "keywords": [
+        "USNG",
+        "UTM",
+        "convert",
+        "coordinate",
+        "decimal degrees",
+        "degree minutes seconds",
+        "format",
+        "latitude",
+        "longitude"
+    ],
+    "language": "java",
+    "redirect_from": [
+        "/android/latest/sample-code/format-coordinates.htm"
+    ],
+    "relevant_apis": [
+        "CoordinateFormatter",
+        "CoordinateFormatter.LatitudeLongitudeFormat",
+        "CoordinateFormatter.UtmConversionMode"
+    ],
+    "snippets": [
+        "src/main/java/com/esri/arcgisruntime/sample/formatcoordinates/MainActivity.java"
+    ],
+    "title": "Format coordinates"
+}

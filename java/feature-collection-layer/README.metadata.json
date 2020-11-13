@@ -1,0 +1,31 @@
+{
+    "category": "Layers",
+    "description": "Create a Feature Collection Layer from a Feature Collection Table, and add it to a map.",
+    "formal_name": "FeatureCollectionLayer",
+    "ignore": false,
+    "images": [
+        "feature-collection-layer.png"
+    ],
+    "keywords": [
+        "collection",
+        "feature",
+        "layers",
+        "table"
+    ],
+    "language": "java",
+    "redirect_from": [
+        "/android/latest/sample-code/feature-collection-layer.htm"
+    ],
+    "relevant_apis": [
+        "Feature",
+        "FeatureCollection",
+        "FeatureCollectionLayer",
+        "FeatureCollectionTable",
+        "Field",
+        "SimpleRenderer"
+    ],
+    "snippets": [
+        "src/main/java/com/esri/arcgisruntime/sample/featurecollectionlayer/MainActivity.java"
+    ],
+    "title": "Feature collection layer"
+}

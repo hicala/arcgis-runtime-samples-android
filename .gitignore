@@ -1,24 +1,17 @@
-# ArcGIS Android SDK
-
+# ArcGIS Android SDK Java Samples
 # Local configuration file (sdk path, etc)
 local.properties
 .gradle/
-
 # Intellij project files
 *.ipr
 *.iml
 .idea/
 build/
-
-# arcgis lib module
-arcgis-android-v10.2.4
-
-# SublimeText
-/*.sublime-project
-*.sublime-workspace
-
+# IDE files
+*.project
+*.classpath
+.settings/
 # OS generated files #
-######################
 .DS_Store
 .DS_Store?
 ._*

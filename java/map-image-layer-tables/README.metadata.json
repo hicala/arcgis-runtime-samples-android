@@ -1,0 +1,34 @@
+{
+    "category": "Search and Query",
+    "description": "Find features in a spatial table related to features in a non-spatial table.",
+    "formal_name": "MapImageLayerTables",
+    "ignore": false,
+    "images": [
+        "map-image-layer-tables.png"
+    ],
+    "keywords": [
+        "features",
+        "query",
+        "related features",
+        "search"
+    ],
+    "language": "java",
+    "redirect_from": [
+        "/android/latest/sample-code/map-image-layer-tables.htm"
+    ],
+    "relevant_apis": [
+        "ArcGISFeature",
+        "ArcGISMapImageLayer",
+        "Feature",
+        "FeatureQueryResult",
+        "QueryParameters",
+        "RelatedFeatureQueryResult",
+        "RelatedQueryParameters",
+        "RelationshipInfo",
+        "ServiceFeatureTable"
+    ],
+    "snippets": [
+        "src/main/java/com/esri/arcgisruntime/sample/mapimagelayertables/MainActivity.java"
+    ],
+    "title": "Map image layer tables"
+}

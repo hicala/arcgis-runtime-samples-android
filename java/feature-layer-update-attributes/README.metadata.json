@@ -1,0 +1,32 @@
+{
+    "category": "Edit and Manage Data",
+    "description": "Update feature attributes in an online feature service.",
+    "formal_name": "FeatureLayerUpdateAttributes",
+    "ignore": false,
+    "images": [
+        "feature-layer-update-attributes.png"
+    ],
+    "keywords": [
+        "amend",
+        "attribute",
+        "details",
+        "edit",
+        "editing",
+        "information",
+        "value"
+    ],
+    "language": "java",
+    "redirect_from": [
+        "/android/latest/sample-code/feature-layer-update-attributes.htm"
+    ],
+    "relevant_apis": [
+        "ArcGISFeature",
+        "FeatureLayer",
+        "ServiceFeatureTable"
+    ],
+    "snippets": [
+        "src/main/java/com/esri/arcgisruntime/sample/featurelayerupdateattributes/DamageTypesListActivity.java",
+        "src/main/java/com/esri/arcgisruntime/sample/featurelayerupdateattributes/MainActivity.java"
+    ],
+    "title": "Feature layer update attributes"
+}

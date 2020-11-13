@@ -1,0 +1,27 @@
+{
+    "category": "Visualization",
+    "description": "See through terrain in a scene and move the camera underground.",
+    "formal_name": "ViewContentBeneathTheTerrainSurface",
+    "ignore": false,
+    "images": [
+        "view-content-beneath-the-terrain-surface.png"
+    ],
+    "keywords": [
+        "3D",
+        "subsurface",
+        "underground",
+        "utilities"
+    ],
+    "language": "java",
+    "redirect_from": [
+        "/android/latest/sample-code/view-content-beneath-the-terrain-surface.htm"
+    ],
+    "relevant_apis": [
+        "NavigationConstraint",
+        "Surface"
+    ],
+    "snippets": [
+        "src/main/java/com/esri/arcgisruntime/sample/viewcontentbeneaththeterrainsurface/MainActivity.java"
+    ],
+    "title": "View content beneath the terrain surface"
+}

@@ -1,0 +1,34 @@
+{
+    "category": "Augmented Reality",
+    "description": "Use augmented reality (AR) to pin a scene to a table or desk for easy exploration.",
+    "formal_name": "DisplaySceneInTabletopAr",
+    "ignore": false,
+    "images": [
+        "display-scene-in-tabletop-ar.png"
+    ],
+    "keywords": [
+        "augmented reality",
+        "drop",
+        "mixed reality",
+        "model",
+        "pin",
+        "place",
+        "table-top",
+        "tabletop"
+    ],
+    "language": "java",
+    "provision_from": [
+        "https://www.arcgis.com/home/item.html?id=7dd2f97bb007466ea939160d0de96a9d"
+    ],
+    "provision_to": [
+        "/philadelphia.mspk"
+    ],
+    "relevant_apis": [
+        "ArcGISARView",
+        "Surface.setOpacity(...)"
+    ],
+    "snippets": [
+        "src/main/java/com/esri/arcgisruntime/sample/displaysceneintabletopar/MainActivity.java"
+    ],
+    "title": "Display scene in tabletop AR"
+}

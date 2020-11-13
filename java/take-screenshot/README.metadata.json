@@ -1,0 +1,31 @@
+{
+    "category": "MapViews, SceneViews and UI",
+    "description": "Take a screenshot of the map.",
+    "formal_name": "TakeScreenshot",
+    "ignore": false,
+    "images": [
+        "take-screenshot.png"
+    ],
+    "keywords": [
+        "capture",
+        "export",
+        "image",
+        "print",
+        "screen capture",
+        "screenshot",
+        "share",
+        "shot"
+    ],
+    "language": "java",
+    "redirect_from": [
+        "/android/latest/sample-code/take-screenshot.htm"
+    ],
+    "relevant_apis": [
+        "MapView",
+        "MapView.exportImageAsync"
+    ],
+    "snippets": [
+        "src/main/java/com/esri/arcgisruntime/sample/takescreenshot/MainActivity.java"
+    ],
+    "title": "Take screenshot"
+}

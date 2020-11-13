@@ -1,0 +1,25 @@
+{
+    "category": "Layers",
+    "description": "Create a raster layer from a raster image service.",
+    "formal_name": "RasterLayerService",
+    "ignore": false,
+    "images": [
+        "raster-layer-service.png"
+    ],
+    "keywords": [
+        "image service",
+        "raster"
+    ],
+    "language": "java",
+    "redirect_from": [
+        "/android/latest/sample-code/raster-layer-service.htm"
+    ],
+    "relevant_apis": [
+        "ImageServiceRaster",
+        "RasterLayer"
+    ],
+    "snippets": [
+        "src/main/java/com/esri/arcgisruntime/sample/rasterservicelayer/MainActivity.java"
+    ],
+    "title": "Raster layer (service)"
+}

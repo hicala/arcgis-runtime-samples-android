@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Honor mobile map package expiration date</string>
+    <string name="path_to_expired_mmpk">/LothianRiversAnno.mmpk</string>
+    <string name="expiration_text">%1$s \n Expired on %2$s</string>
+</resources>

@@ -1,0 +1,34 @@
+{
+    "category": "Visualization",
+    "description": "Combine multiple symbols from a mobile style file into a single symbol.",
+    "formal_name": "ReadSymbolsMobileStyleFile",
+    "ignore": false,
+    "images": [
+        "read-symbols-mobile-style-file.png"
+    ],
+    "keywords": [
+        "advanced symbology",
+        "mobile style",
+        "multilayer",
+        "stylx"
+    ],
+    "language": "java",
+    "provision_from": [
+        "https://arcgisruntime.maps.arcgis.com/home/item.html?id=1bd036f221f54a99abc9e46ff3511cbf"
+    ],
+    "provision_to": [
+        "/emoji-mobile.stylx"
+    ],
+    "relevant_apis": [
+        "MultilayerPointSymbol",
+        "MultilayerSymbol",
+        "SymbolLayer",
+        "SymbolStyle",
+        "SymbolStyleSearchParameters"
+    ],
+    "snippets": [
+        "src/main/java/com/esri/arcgisruntime/sample/readsymbolsmobilestylefile/MainActivity.java",
+        "src/main/java/com/esri/arcgisruntime/sample/readsymbolsmobilestylefile/SymbolAdapter.java"
+    ],
+    "title": "Read symbols mobile style file"
+}

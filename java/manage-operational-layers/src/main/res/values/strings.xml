@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Manage Operational Layers</string>
+    <string name="imagelayer_elevation_url">https://sampleserver5.arcgisonline.com/arcgis/rest/services/Elevation/WorldElevations/MapServer</string>
+    <string name="imagelayer_census_url">https://sampleserver5.arcgisonline.com/arcgis/rest/services/Census/MapServer</string>
+    <string name="operational_layers">Operational Layers</string>
+    <string name="done">Done</string>
+    <string name="added_layers"> Added layers</string>
+    <string name="removed_layers"> Removed layers</string>
+    <string-array name="manage_operational_layer_array">
+        <item>World Elevations</item>
+        <item>Census</item>
+    </string-array>
+
+</resources>

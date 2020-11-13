@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Read GeoPackage</string>
+    <string name="geopackage_path">/AuroraCO.gpkg</string>
+</resources>

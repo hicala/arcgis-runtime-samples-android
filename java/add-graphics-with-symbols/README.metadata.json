@@ -1,0 +1,32 @@
+{
+    "category": "Visualization",
+    "description": "Use a symbol style to display a graphic on a graphics overlay.",
+    "formal_name": "AddGraphicsWithSymbols",
+    "ignore": false,
+    "images": [
+        "add-graphics-with-symbols.png"
+    ],
+    "keywords": [
+        "display",
+        "fill",
+        "graphics",
+        "line",
+        "marker",
+        "overlay",
+        "point",
+        "symbol"
+    ],
+    "language": "java",
+    "relevant_apis": [
+        "Geometry",
+        "Graphic",
+        "GraphicsOverlay",
+        "SimpleFillSymbol",
+        "SimpleLineSymbol",
+        "SimpleMarkerSymbol"
+    ],
+    "snippets": [
+        "src/main/java/com/esri/arcgisruntime/sample/addgraphicswithsymbols/MainActivity.java"
+    ],
+    "title": "Add graphics with symbols"
+}

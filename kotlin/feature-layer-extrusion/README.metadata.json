@@ -1,0 +1,32 @@
+{
+    "category": "Visualization",
+    "description": "Extrude features based on their attributes.",
+    "formal_name": "FeatureLayerExtrusion",
+    "ignore": false,
+    "images": [
+        "feature-layer-extrusion.png"
+    ],
+    "keywords": [
+        "3D",
+        "extrude",
+        "extrusion",
+        "extrusion expression",
+        "height",
+        "renderer",
+        "scene"
+    ],
+    "language": "kotlin",
+    "redirect_from": [
+        "/android/latest/sample-code/feature-layer-extrusion.htm"
+    ],
+    "relevant_apis": [
+        "FeatureLayer",
+        "Renderer.SceneProperties",
+        "ServiceFeatureTable",
+        "SimpleRenderer"
+    ],
+    "snippets": [
+        "src/main/java/com/esri/arcgisruntime/sample/featurelayerextrusion/MainActivity.kt"
+    ],
+    "title": "Feature layer extrusion"
+}

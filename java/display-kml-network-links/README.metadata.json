@@ -1,0 +1,29 @@
+{
+    "category": "Layers",
+    "description": "Display a file with a KML network link, including displaying any network link control messages at launch.",
+    "formal_name": "DisplayKmlNetworkLinks",
+    "ignore": false,
+    "images": [
+        "display-kml-network-links.png"
+    ],
+    "keywords": [
+        "KML",
+        "KMZ",
+        "OGC",
+        "keyhole",
+        "network link",
+        "network link control"
+    ],
+    "language": "java",
+    "redirect_from": [
+        "/android/latest/sample-code/display-kml-network-links.htm"
+    ],
+    "relevant_apis": [
+        "KmlDataset",
+        "KmlLayer"
+    ],
+    "snippets": [
+        "src/main/java/com/esri/arcgisruntime/sample/displaykmlnetworklinks/MainActivity.java"
+    ],
+    "title": "Display KML network links"
+}

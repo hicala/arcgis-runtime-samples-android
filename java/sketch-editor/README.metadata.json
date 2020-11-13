@@ -1,0 +1,30 @@
+{
+    "category": "Maps and Scenes",
+    "description": "Use the Sketch Editor to edit or sketch a new point, line, or polygon geometry on to a map.",
+    "formal_name": "SketchEditor",
+    "ignore": false,
+    "images": [
+        "sketch-editor.png"
+    ],
+    "keywords": [
+        "draw",
+        "edit",
+        "sketch"
+    ],
+    "language": "java",
+    "redirect_from": [
+        "/android/latest/sample-code/sketch-editor.htm"
+    ],
+    "relevant_apis": [
+        "Geometry",
+        "Graphic",
+        "GraphicsOverlay",
+        "MapView",
+        "SketchCreationMode",
+        "SketchEditor"
+    ],
+    "snippets": [
+        "src/main/java/com/esri/arcgisruntime/sample/sketcheditor/MainActivity.java"
+    ],
+    "title": "Sketch editor"
+}

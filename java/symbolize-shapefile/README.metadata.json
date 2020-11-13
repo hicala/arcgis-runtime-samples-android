@@ -1,0 +1,34 @@
+{
+    "category": "Visualization",
+    "description": "Display a shapefile with custom symbology.",
+    "formal_name": "SymbolizeShapefile",
+    "ignore": false,
+    "images": [
+        "symbolize-shapefile.png"
+    ],
+    "keywords": [
+        "package",
+        "shape file",
+        "shapefile",
+        "symbology",
+        "visualization"
+    ],
+    "language": "java",
+    "provision_from": [
+        "https://www.arcgis.com/home/item.html?id=d98b3e5293834c5f852f13c569930caa"
+    ],
+    "provision_to": [
+        "/Aurora_CO_shp/Subdivisions.shp"
+    ],
+    "relevant_apis": [
+        "FeatureLayer",
+        "ShapefileFeatureTable",
+        "SimpleFillSymbol",
+        "SimpleLineSymbol",
+        "SimpleRenderer"
+    ],
+    "snippets": [
+        "src/main/java/com/esri/arcgisruntime/sample/symbolizeshapefile/MainActivity.java"
+    ],
+    "title": "Symbolize shapefile"
+}

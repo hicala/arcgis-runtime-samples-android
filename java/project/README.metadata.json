@@ -1,0 +1,33 @@
+{
+    "category": "Edit and Manage Data",
+    "description": "Project a point from one spatial reference to another.",
+    "formal_name": "Project",
+    "ignore": false,
+    "images": [
+        "project.png"
+    ],
+    "keywords": [
+        "WGS 84",
+        "Web Mercator",
+        "coordinate system",
+        "coordinates",
+        "latitude",
+        "longitude",
+        "projected",
+        "projection",
+        "spatial reference"
+    ],
+    "language": "java",
+    "redirect_from": [
+        "/android/latest/sample-code/project.htm"
+    ],
+    "relevant_apis": [
+        "GeometryEngine",
+        "Point",
+        "SpatialReference"
+    ],
+    "snippets": [
+        "src/main/java/com/esri/arcgisruntime/sample/project/MainActivity.java"
+    ],
+    "title": "Project"
+}

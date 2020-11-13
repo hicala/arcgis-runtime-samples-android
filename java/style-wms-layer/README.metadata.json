@@ -1,0 +1,28 @@
+{
+    "category": "Visualization",
+    "description": "Change the style of a Web Map Service (WMS) layer.",
+    "formal_name": "StyleWmsLayer",
+    "ignore": false,
+    "images": [
+        "style-wms-layer.png"
+    ],
+    "keywords": [
+        "WMS",
+        "imagery",
+        "styles",
+        "visualization"
+    ],
+    "language": "java",
+    "redirect_from": [
+        "/android/latest/sample-code/style-wms-layer.htm"
+    ],
+    "relevant_apis": [
+        "WmsLayer",
+        "WmsSublayer",
+        "WmsSublayerInfo"
+    ],
+    "snippets": [
+        "src/main/java/com/esri/arcgisruntime/stylewmslayer/MainActivity.java"
+    ],
+    "title": "Style WMS layer"
+}

@@ -1,0 +1,30 @@
+{
+    "category": "Analysis",
+    "description": "Analyze the viewshed for a camera. A viewshed shows the visible and obstructed areas from an observer's vantage point.",
+    "formal_name": "ViewshedCamera",
+    "ignore": false,
+    "images": [
+        "viewshed-camera.png"
+    ],
+    "keywords": [
+        "3D",
+        "scene",
+        "viewshed",
+        "visibility analysis"
+    ],
+    "language": "java",
+    "redirect_from": [
+        "/android/latest/sample-code/viewshed-camera.htm"
+    ],
+    "relevant_apis": [
+        "AnalysisOverlay",
+        "ArcGISSceneLayer",
+        "ArcGISTiledElevationSource",
+        "Camera",
+        "LocationViewshed"
+    ],
+    "snippets": [
+        "src/main/java/com/esri/arcgisruntime/sample/viewshedcamera/MainActivity.java"
+    ],
+    "title": "Viewshed camera"
+}

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Raster layer GeoPackage</string>
+    <string name="geopackage_path">/AuroraCO.gpkg</string>
+</resources>

@@ -1,0 +1,26 @@
+{
+    "category": "Visualization",
+    "description": "Change the visibility of sublayers.",
+    "formal_name": "ChangeSublayerVisibility",
+    "ignore": false,
+    "images": [
+        "change-sublayer-visibility.png"
+    ],
+    "keywords": [
+        "layer",
+        "sublayer",
+        "visibility"
+    ],
+    "language": "java",
+    "redirect_from": [
+        "/android/latest/sample-code/change-sublayer-visibility.htm"
+    ],
+    "relevant_apis": [
+        "ArcGISMapImageLayer",
+        "SubLayerList"
+    ],
+    "snippets": [
+        "src/main/java/com/esri/arcgisruntime/sample/mapimagelayersublayervisibility/MainActivity.java"
+    ],
+    "title": "Change sublayer visibility"
+}

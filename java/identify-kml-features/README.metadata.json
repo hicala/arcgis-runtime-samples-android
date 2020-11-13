@@ -1,0 +1,29 @@
+{
+    "category": "Search and Query",
+    "description": "Show a callout with formatted content for a KML feature.",
+    "formal_name": "IdentifyKmlFeatures",
+    "ignore": false,
+    "images": [
+        "identify-kml-features.png"
+    ],
+    "keywords": [
+        "KML",
+        "KMZ",
+        "Keyhole",
+        "NOAA",
+        "NWS",
+        "OGC",
+        "weather"
+    ],
+    "language": "java",
+    "relevant_apis": [
+        "GeoView.identifyLayerAsync",
+        "IdentifyLayerResult",
+        "KmlLayer",
+        "KmlPlacemark"
+    ],
+    "snippets": [
+        "src/main/java/com/esri/arcgisruntime/sample/identifykmlfeatures/MainActivity.java"
+    ],
+    "title": "Identify KML features"
+}

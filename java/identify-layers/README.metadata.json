@@ -1,0 +1,28 @@
+{
+    "category": "Search and Query",
+    "description": "Identify features in all layers in a map.",
+    "formal_name": "IdentifyLayers",
+    "ignore": false,
+    "images": [
+        "identify-layers.png"
+    ],
+    "keywords": [
+        "identify",
+        "recursion",
+        "recursive",
+        "sublayers"
+    ],
+    "language": "java",
+    "redirect_from": [
+        "/android/latest/sample-code/identify-layers.htm"
+    ],
+    "relevant_apis": [
+        "IdentifyLayerResult",
+        "IdentifyLayerResult.getSublayerResults",
+        "MapView.identifyLayersAsync"
+    ],
+    "snippets": [
+        "src/main/java/com/esri/arcgisruntime/sample/identifylayers/MainActivity.java"
+    ],
+    "title": "Identify layers"
+}

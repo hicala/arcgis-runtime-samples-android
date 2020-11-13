@@ -1,0 +1,28 @@
+{
+    "category": "Edit and Manage Data",
+    "description": "Update related features in an online feature service.",
+    "formal_name": "UpdateRelatedFeatures",
+    "ignore": false,
+    "images": [
+        "update-related-features.png"
+    ],
+    "keywords": [
+        "editing",
+        "features",
+        "service",
+        "updating"
+    ],
+    "language": "java",
+    "redirect_from": [
+        "/android/latest/sample-code/update-related-features.htm"
+    ],
+    "relevant_apis": [
+        "ArcGISFeature",
+        "RelatedFeatureQueryResult",
+        "ServiceFeatureTable"
+    ],
+    "snippets": [
+        "src/main/java/com/esri/arcgisruntime/sample/updaterelatedfeatures/MainActivity.java"
+    ],
+    "title": "Update related features"
+}

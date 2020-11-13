@@ -1,0 +1,33 @@
+{
+    "category": "Edit and Manage Data",
+    "description": "Get a list of suitable transformations for projecting a geometry between two spatial references with different horizontal datums.",
+    "formal_name": "TransformsBySuitability",
+    "ignore": false,
+    "images": [
+        "transforms-by-suitability.png"
+    ],
+    "keywords": [
+        "datum",
+        "geodesy",
+        "projection",
+        "spatial reference",
+        "transformation"
+    ],
+    "language": "java",
+    "redirect_from": [
+        "/android/latest/sample-code/transforms-by-suitability.htm"
+    ],
+    "relevant_apis": [
+        "DatumTransformation",
+        "GeographicTransformation",
+        "GeographicTransformationStep",
+        "GeometryEngine",
+        "GeometryEngine.Project",
+        "TransformationCatalog"
+    ],
+    "snippets": [
+        "src/main/java/com/esri/arcgisruntime/sample/transformsbysuitability/DatumTransformationAdapter.java",
+        "src/main/java/com/esri/arcgisruntime/sample/transformsbysuitability/MainActivity.java"
+    ],
+    "title": "Transforms by suitability"
+}

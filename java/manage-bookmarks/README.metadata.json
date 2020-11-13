@@ -1,0 +1,28 @@
+{
+    "category": "MapViews, SceneViews and UI",
+    "description": "Access and create bookmarks on a map.",
+    "formal_name": "ManageBookmarks",
+    "ignore": false,
+    "images": [
+        "manage-bookmarks.png"
+    ],
+    "keywords": [
+        "bookmark",
+        "extent",
+        "location",
+        "zoom"
+    ],
+    "language": "java",
+    "redirect_from": [
+        "/android/latest/sample-code/manage-bookmarks.htm"
+    ],
+    "relevant_apis": [
+        "Bookmark",
+        "BookmarkList",
+        "Viewpoint"
+    ],
+    "snippets": [
+        "src/main/java/com/esri/arcgisruntime/sample/managebookmarks/MainActivity.java"
+    ],
+    "title": "Manage bookmarks"
+}

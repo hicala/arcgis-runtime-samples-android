@@ -1,0 +1,32 @@
+{
+    "category": "Visualization",
+    "description": "Display common symbols for all graphics in a graphics overlay with a renderer.",
+    "formal_name": "SimpleRenderer",
+    "ignore": false,
+    "images": [
+        "simple-renderer.png"
+    ],
+    "keywords": [
+        "graphics",
+        "marker",
+        "renderer",
+        "symbol",
+        "symbolize",
+        "symbology"
+    ],
+    "language": "java",
+    "redirect_from": [
+        "/android/latest/sample-code/simple-renderer.htm"
+    ],
+    "relevant_apis": [
+        "Graphic",
+        "GraphicsOverlay",
+        "Point",
+        "SimpleMarkerSymbol",
+        "SimpleRenderer"
+    ],
+    "snippets": [
+        "src/main/java/com/esri/arcgisruntime/sample/simplerenderer/MainActivity.java"
+    ],
+    "title": "Simple renderer"
+}

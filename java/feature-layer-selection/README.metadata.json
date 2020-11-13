@@ -1,0 +1,29 @@
+{
+    "category": "Search and Query",
+    "description": "Select features in a feature layer.",
+    "formal_name": "FeatureLayerSelection",
+    "ignore": false,
+    "images": [
+        "feature-layer-selection.png"
+    ],
+    "keywords": [
+        "features",
+        "layers",
+        "select",
+        "selection",
+        "tolerance"
+    ],
+    "language": "java",
+    "redirect_from": [
+        "/android/latest/sample-code/feature-layer-selection.htm"
+    ],
+    "relevant_apis": [
+        "Feature",
+        "FeatureLayer",
+        "ServiceFeatureTable"
+    ],
+    "snippets": [
+        "src/main/java/com/esri/arcgisruntime/sample/featurelayerselection/MainActivity.java"
+    ],
+    "title": "Feature layer selection"
+}

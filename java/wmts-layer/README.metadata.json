@@ -1,0 +1,27 @@
+{
+    "category": "Layers",
+    "description": "Display a layer from a Web Map Tile Service.",
+    "formal_name": "WmtsLayer",
+    "ignore": false,
+    "images": [
+        "wmts-layer.png"
+    ],
+    "keywords": [
+        "OGC",
+        "layer",
+        "raster",
+        "tiled",
+        "web map tile service"
+    ],
+    "language": "java",
+    "relevant_apis": [
+        "WmtsLayer",
+        "WmtsLayerInfo",
+        "WmtsService",
+        "WmtsServiceInfo"
+    ],
+    "snippets": [
+        "src/main/java/com/esri/arcgisruntime/sample/wmtslayer/MainActivity.java"
+    ],
+    "title": "WMTS layer"
+}
